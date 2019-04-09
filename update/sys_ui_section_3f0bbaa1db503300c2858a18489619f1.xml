@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="3f0bbaa1db503300c2858a18489619f1" sys_domain="global" table="x_261199_bvrith_st_apply_leave" version="3" view="Class_Teacher_Status">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lid</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>1171bbe5dbd03300c2858a1848961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>roll_no</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>9171bbe5dbd03300c2858a1848961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>applicant_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>1571bbe5dbd03300c2858a1848961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gender</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>9571bbe5dbd03300c2858a1848961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sem</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>1971bbe5dbd03300c2858a1848961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dept</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>9971bbe5dbd03300c2858a1848961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>section</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>1d71bbe5dbd03300c2858a1848961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>9d71bbe5dbd03300c2858a1848961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>from</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>1171bbe5dbd03300c2858a1848961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>to</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>9171bbe5dbd03300c2858a1848961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>applied_on</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>1571bbe5dbd03300c2858a1848961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>attendance</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>9571bbe5dbd03300c2858a1848961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ph_no</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>1971bbe5dbd03300c2858a1848961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>proof</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>9971bbe5dbd03300c2858a1848961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purpose</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>1d71bbe5dbd03300c2858a1848961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>9d71bbe5dbd03300c2858a1848961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_boolean_1</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 10:28:50</sys_created_on>
+            <sys_id>1171bbe5dbd03300c2858a1848961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="79e02698db903300c2858a1848961982">3f0bbaa1db503300c2858a18489619f1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 10:28:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_261199_bvrith_st_apply_leave</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 06:31:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f0bbaa1db503300c2858a18489619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_261199_bvrith_st_apply_leave</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BVRITH_Student_Leave_Management" source="x_261199_bvrith_st">23db1a54db903300c2858a1848961958</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BVRITH_Student_Leave_Management">23db1a54db903300c2858a1848961958</sys_scope>
+            <sys_update_name>sys_ui_section_3f0bbaa1db503300c2858a18489619f1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 06:31:10</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Class Teacher Status" name="Class_Teacher_Status">79e02698db903300c2858a1848961982</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

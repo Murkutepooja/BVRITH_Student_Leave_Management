@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>bvrith_student_leave_management</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-03 04:22:07</sys_created_on>
+        <sys_id>06c3eacadb203300c2858a1848961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bvrith_student_leave_management</sys_name>
+        <sys_package display_value="BVRITH_Student_Leave_Management" source="x_261199_bvrith_st">23db1a54db903300c2858a1848961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BVRITH_Student_Leave_Management">23db1a54db903300c2858a1848961958</sys_scope>
+        <sys_update_name>sp_page_06c3eacadb203300c2858a1848961975</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-03 04:22:07</sys_updated_on>
+        <title>BVRITH Student Leave Management</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=06c3eacadb203300c2858a1848961975"/>
+</record_update>

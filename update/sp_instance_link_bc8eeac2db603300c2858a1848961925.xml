@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>star-o</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">d91e6ac2db603300c2858a1848961939</sp_column>
+        <sp_page display_value="bvrith_student_leave_management">06c3eacadb203300c2858a1848961975</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-03 05:09:00</sys_created_on>
+        <sys_id>bc8eeac2db603300c2858a1848961925</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>BVRITH Student Leave Management</sys_name>
+        <sys_package display_value="BVRITH_Student_Leave_Management" source="x_261199_bvrith_st">23db1a54db903300c2858a1848961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BVRITH_Student_Leave_Management">23db1a54db903300c2858a1848961958</sys_scope>
+        <sys_update_name>sp_instance_link_bc8eeac2db603300c2858a1848961925</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-05 10:15:56</sys_updated_on>
+        <title>BVRITH Student Leave Management</title>
+        <type>url</type>
+        <url>https://dev66715.service-now.com/nav_to.do?uri=%2Fx_261199_bvrith_st_apply_leave.do%3Fsysparm_stack%3Dx_261199_bvrith_st_apply_leave_list.do%26sysparm_view%3DApplyLeave%26sysparm_query%3D%26sysparm_view%3D%2520(ApplyLeave)</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=bc8eeac2db603300c2858a1848961925"/>
+</record_update>

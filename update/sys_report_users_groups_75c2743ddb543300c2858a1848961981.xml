@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="DeptLeavesReport">39c2743ddb543300c2858a1848961980</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-20 15:14:13</sys_created_on>
+        <sys_id>75c2743ddb543300c2858a1848961981</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>39c2743ddb543300c2858a1848961980</sys_name>
+        <sys_package display_value="BVRITH_Student_Leave_Management" source="x_261199_bvrith_st">23db1a54db903300c2858a1848961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BVRITH_Student_Leave_Management">23db1a54db903300c2858a1848961958</sys_scope>
+        <sys_update_name>sys_report_users_groups_75c2743ddb543300c2858a1848961981</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-20 15:14:13</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+</record_update>

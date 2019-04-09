@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Apply Leave" max_length="40" name="x_261199_bvrith_st_apply_leave" type="collection">
+        <element label="Applicant Name" max_length="50" name="applicant_name" type="string"/>
+        <element label="Applied On" mandatory="true" max_length="40" name="applied_on" type="glide_date_time"/>
+        <element label="Attendance %" max_length="40" name="attendance" type="integer"/>
+        <element label="Class Teacher Status" max_length="40" name="class_teacher_status" type="boolean"/>
+        <element choice="1" label="Dept" mandatory="true" max_length="4" name="dept" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CSE" sequence="0" value="cse"/>
+                <element inactive_on_update="false" label="IT" sequence="1" value="it"/>
+                <element inactive_on_update="false" label="ECE" sequence="2" value="ece"/>
+                <element inactive_on_update="false" label="EEE" sequence="3" value="eee"/>
+            </choice>
+        </element>
+        <element label="Email" mandatory="true" max_length="40" name="email" type="string"/>
+        <element label="From" mandatory="true" max_length="40" name="from" type="glide_date"/>
+        <element choice="1" label="Gender" max_length="2" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Male" sequence="0" value="male"/>
+                <element inactive_on_update="false" label="Female" sequence="1" value="female"/>
+            </choice>
+        </element>
+        <element label="HOD Status" max_length="40" name="hod_status" type="boolean"/>
+        <element label="Lid" max_length="3" name="lid" type="integer"/>
+        <element label="Ph No" mandatory="true" max_length="10" name="ph_no" type="integer"/>
+        <element label="Proof" max_length="40" name="proof" type="user_image"/>
+        <element label="Purpose" mandatory="true" max_length="50" name="purpose" type="string"/>
+        <element label="Roll No" mandatory="true" max_length="15" name="roll_no" type="string"/>
+        <element choice="1" label="Section" mandatory="true" max_length="6" name="section" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CSE-A" sequence="0" value="cse-a"/>
+                <element inactive_on_update="false" label="CSE-B" sequence="1" value="cse-b"/>
+                <element inactive_on_update="false" label="ECE-A" sequence="2" value="ece-a"/>
+                <element inactive_on_update="false" label="ECE-B" sequence="3" value="ece-b"/>
+                <element inactive_on_update="false" label="IT" sequence="4" value="it"/>
+                <element inactive_on_update="false" label="EEE" sequence="5" value="eee"/>
+            </choice>
+        </element>
+        <element label="Security" max_length="40" name="security" type="boolean"/>
+        <element choice="1" label="Sem" mandatory="true" max_length="8" name="sem" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1/4Sem-I" sequence="0" value="1/4sem-i"/>
+                <element inactive_on_update="false" label="1/4Sem-II" sequence="1" value="1/4sem-ii"/>
+                <element inactive_on_update="false" label="2/4Sem-I" sequence="2" value="2/4sem-i"/>
+                <element inactive_on_update="false" label="2/4Sem-II" sequence="3" value="2/4sem-ii"/>
+                <element inactive_on_update="false" label="3/4Sem-I" sequence="4" value="3/4sem-i"/>
+                <element inactive_on_update="false" label="3/4Sem-II" sequence="5" value="3/4sem-ii"/>
+                <element inactive_on_update="false" label="4/4Sem-I" sequence="6" value="4/4sem-i"/>
+                <element inactive_on_update="false" label="4/4Sem-II" sequence="7" value="4/4sem-ii"/>
+            </choice>
+        </element>
+        <element label="To" mandatory="true" max_length="40" name="to" type="glide_date"/>
+        <element label="Class Teacher Status" max_length="40" name="u_boolean_1" type="boolean"/>
+        <element label="HOD Status" max_length="40" name="u_boolean_2" type="boolean"/>
+        <element label="Security Status" max_length="40" name="u_boolean_3" type="boolean"/>
+    </element>
+</database>
