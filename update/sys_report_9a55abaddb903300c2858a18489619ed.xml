@@ -61,7 +61,7 @@
         <map display_value="World">93b8a3a2d7101200bd4a4ebfae61033a</map>
         <map_source/>
         <orderby_list/>
-        <other_threshold>-2</other_threshold>
+        <other_threshold>-1</other_threshold>
         <others>true</others>
         <page_hdrftr/>
         <pivot_expanded>true</pivot_expanded>
@@ -94,14 +94,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-20 09:35:55</sys_created_on>
         <sys_id>9a55abaddb903300c2858a18489619ed</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name>StudentLeaveReport</sys_name>
         <sys_package display_value="BVRITH_Student_Leave_Management" source="x_261199_bvrith_st">23db1a54db903300c2858a1848961958</sys_package>
         <sys_policy/>
         <sys_scope display_value="BVRITH_Student_Leave_Management">23db1a54db903300c2858a1848961958</sys_scope>
         <sys_update_name>sys_report_9a55abaddb903300c2858a18489619ed</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-16 06:52:00</sys_updated_on>
+        <sys_updated_on>2019-04-16 09:21:20</sys_updated_on>
         <table>x_261199_bvrith_st_apply_leave</table>
         <title>StudentLeaveReport</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
