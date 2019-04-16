@@ -4,13 +4,13 @@
             <element>lid</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>d627baeddb103300c2858a18489619e8</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>43ae420adb7c7300c2858a184896191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>roll_no</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>5a27baeddb103300c2858a18489619e8</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>c3ae420adb7c7300c2858a184896191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>applicant_name</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>da27baeddb103300c2858a18489619e8</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>47ae420adb7c7300c2858a184896191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>gender</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>5e27baeddb103300c2858a18489619e8</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>c7ae420adb7c7300c2858a184896191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>sem</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>de27baeddb103300c2858a18489619e8</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>4bae420adb7c7300c2858a184896191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>dept</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>5227baeddb103300c2858a18489619e9</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>cbae420adb7c7300c2858a184896191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>section</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>d227baeddb103300c2858a18489619e9</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>4fae420adb7c7300c2858a184896191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>.split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>5627baeddb103300c2858a18489619e9</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>cfae420adb7c7300c2858a184896191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>from</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>d627baeddb103300c2858a18489619e9</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>43ae420adb7c7300c2858a1848961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>to</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>5a27baeddb103300c2858a18489619e9</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>c3ae420adb7c7300c2858a1848961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>applied_on</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>da27baeddb103300c2858a18489619e9</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>47ae420adb7c7300c2858a1848961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -158,13 +158,13 @@
             <element>attendance</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>5e27baeddb103300c2858a18489619e9</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>c7ae420adb7c7300c2858a1848961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -172,13 +172,13 @@
             <element>ph_no</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>de27baeddb103300c2858a18489619e9</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>4bae420adb7c7300c2858a1848961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -186,13 +186,13 @@
             <element>proof</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>5227baeddb103300c2858a18489619ea</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>cbae420adb7c7300c2858a1848961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -200,13 +200,13 @@
             <element>purpose</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>d227baeddb103300c2858a18489619ea</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>4fae420adb7c7300c2858a1848961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -214,13 +214,27 @@
             <element>email</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-03-20 06:14:07</sys_created_on>
-            <sys_id>5627baeddb103300c2858a18489619ea</sys_id>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>cfae420adb7c7300c2858a1848961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-03-20 06:14:07</sys_updated_on>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>class_teacher_email</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-15 13:05:36</sys_created_on>
+            <sys_id>43ae420adb7c7300c2858a1848961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_261199_bvrith_st_apply_leave" sys_domain="global" view="Default view">8e4e9218db903300c2858a184896192a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-15 13:05:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

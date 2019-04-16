@@ -22,17 +22,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-04-03 05:20:25</sys_created_on>
         <sys_id>d421f646db603300c2858a1848961912</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>StudentLeaveReport</sys_name>
         <sys_package display_value="BVRITH_Student_Leave_Management" source="x_261199_bvrith_st">23db1a54db903300c2858a1848961958</sys_package>
         <sys_policy/>
         <sys_scope display_value="BVRITH_Student_Leave_Management">23db1a54db903300c2858a1848961958</sys_scope>
         <sys_update_name>sp_instance_link_d421f646db603300c2858a1848961912</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-03 05:21:42</sys_updated_on>
+        <sys_updated_on>2019-04-15 05:09:45</sys_updated_on>
         <title>StudentLeaveReport</title>
-        <type>page</type>
-        <url/>
+        <type>url</type>
+        <url>https://dev66715.service-now.com/nav_to.do?uri=%2Fsys_report_template.do%3Fjvar_report_id%3D9a55abaddb903300c2858a18489619ed%26sysparm_from_list%3Dtrue</url>
         <widget_parameters><![CDATA[{
 	"link_template": {
 		"value": "Circle Icon",

@@ -22,17 +22,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-04-03 05:14:49</sys_created_on>
         <sys_id>86df6606db603300c2858a1848961927</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>HOD Inbox</sys_name>
         <sys_package display_value="BVRITH_Student_Leave_Management" source="x_261199_bvrith_st">23db1a54db903300c2858a1848961958</sys_package>
         <sys_policy/>
         <sys_scope display_value="BVRITH_Student_Leave_Management">23db1a54db903300c2858a1848961958</sys_scope>
         <sys_update_name>sp_instance_link_86df6606db603300c2858a1848961927</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-03 05:15:30</sys_updated_on>
+        <sys_updated_on>2019-04-15 05:11:23</sys_updated_on>
         <title>HOD Inbox</title>
-        <type>page</type>
-        <url/>
+        <type>url</type>
+        <url>https://dev66715.service-now.com/nav_to.do?uri=%2Fx_261199_bvrith_st_apply_leave_list.do%3Fsysparm_userpref_module%3Dbcc26ad8db903300c2858a18489619de%26sysparm_view%3DHOD_Status%26sysparm_clear_stack%3Dtrue</url>
         <widget_parameters><![CDATA[{
 	"link_template": {
 		"value": "Top Icon",

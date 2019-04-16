@@ -3,6 +3,13 @@
         <element label="Applicant Name" max_length="50" name="applicant_name" type="string"/>
         <element label="Applied On" mandatory="true" max_length="40" name="applied_on" type="glide_date_time"/>
         <element label="Attendance %" max_length="40" name="attendance" type="integer"/>
+        <element choice="1" label="Class_Teacher_email" mandatory="true" max_length="40" name="class_teacher_email" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="15wh1a05b7@bvrithyderabad.edu.in" value="15wh1a05b7@bvrithyderabad.edu.in"/>
+                <element inactive_on_update="false" label="naresh.k@bvrithyderabad.edu.in" value="naresh.k@bvrithyderabad.edu.in"/>
+                <element inactive_on_update="false" label="sugnanarao.m@bvrithyderabad.edu.in" value="sugnanarao.m@bvrithyderabad.edu.in"/>
+            </choice>
+        </element>
         <element label="Class Teacher Status" max_length="40" name="class_teacher_status" type="boolean"/>
         <element choice="1" label="Dept" mandatory="true" max_length="4" name="dept" type="choice">
             <choice>
@@ -22,6 +29,7 @@
         </element>
         <element label="HOD Status" max_length="40" name="hod_status" type="boolean"/>
         <element label="Lid" max_length="3" name="lid" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Ph No" mandatory="true" max_length="10" name="ph_no" type="integer"/>
         <element label="Proof" max_length="40" name="proof" type="user_image"/>
         <element label="Purpose" mandatory="true" max_length="50" name="purpose" type="string"/>

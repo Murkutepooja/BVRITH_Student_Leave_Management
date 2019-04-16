@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_261199_bvrith_st_apply_leave</collection>
+        <condition/>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <event_name>approval.cancelled</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>&nbsp;Roll No: ${roll_no}. ${applicant_name},</p>
+<p>of your ${section}, has applied Leave.</p>
+<p>&nbsp;&nbsp;<a title="Class Teacher Inbox" href="https://dev66715.service-now.com/nav_to.do?uri=%2Fx_261199_bvrith_st_apply_leave_list.do%3Fsysparm_userpref_module%3Dfbf1a2d8db903300c2858a1848961902%26sysparm_view%3DClass_Teacher_Status%26sysparm_clear_stack%3Dtrue">Class Teacher Inbox</a></p>
+<p>&nbsp;</p>
+<p>Regards</p>
+<p>${roll_no}</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>ClassTeacherEmailNotification</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>class_teacher_email</recipient_fields>
+        <recipient_groups/>
+        <recipient_users>6816f79cc0a8016401c5a33be04be441</recipient_users>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>BVRITH Student Leave  of ${roll_no} </subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-15 13:41:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e9d4560edb7c7300c2858a184896192e</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>ClassTeacherEmailNotification</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BVRITH_Student_Leave_Management" source="x_261199_bvrith_st">23db1a54db903300c2858a1848961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BVRITH_Student_Leave_Management">23db1a54db903300c2858a1848961958</sys_scope>
+        <sys_update_name>sysevent_email_action_e9d4560edb7c7300c2858a184896192e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-16 09:08:22</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

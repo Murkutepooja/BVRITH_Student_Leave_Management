@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="gender" table="x_261199_bvrith_st_apply_leave">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="class_teacher_email" table="x_261199_bvrith_st_apply_leave">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Gender</column_label>
+        <column_label>Class_Teacher_email</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,14 +27,14 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>gender</element>
+        <element>class_teacher_email</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="Choice">choice</internal_type>
-        <mandatory>false</mandatory>
-        <max_length>2</max_length>
+        <mandatory>true</mandatory>
+        <max_length>40</max_length>
         <name>x_261199_bvrith_st_apply_leave</name>
         <next_element/>
         <primary>false</primary>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-03-16 07:12:47</sys_created_on>
-        <sys_id>f4f3b34cdbf03300c2858a1848961919</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Gender</sys_name>
+        <sys_created_on>2019-04-15 12:46:26</sys_created_on>
+        <sys_id>33e98a06db7c7300c2858a1848961936</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Class_Teacher_email</sys_name>
         <sys_package display_value="BVRITH_Student_Leave_Management" source="x_261199_bvrith_st">23db1a54db903300c2858a1848961958</sys_package>
         <sys_policy/>
         <sys_scope display_value="BVRITH_Student_Leave_Management">23db1a54db903300c2858a1848961958</sys_scope>
-        <sys_update_name>sys_dictionary_x_261199_bvrith_st_apply_leave_gender</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-04-09 15:20:16</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_261199_bvrith_st_apply_leave_class_teacher_email</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-15 13:11:37</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
